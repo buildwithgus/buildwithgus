@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá, eu sou o Gustavo 👋
 
-<!--
-**buildwithgus/buildwithgus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+📊 Focado em Dados, Python e Cibersegurança  
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-CCNA-blue?style=for-the-badge)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Fortinet-red?style=for-the-badge)
+
+## 🚀 Em aprendizado
+- CCNA V7: Switching, Routing, Wireless Essentials, Enterprise Networking, Security and Automation  
+- Análise de Dados  
