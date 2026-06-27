@@ -14,8 +14,8 @@
 ![CCNA II %26 III](https://img.shields.io/badge/CCNA-II%20%26%20III-005073?style=for-the-badge&logo=cisco&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-2E8B57?style=for-the-badge&logo=hackthebox&logoColor=white)
 
-## 🚀 Em aprendizado
+## 🚀 Em aprendizado:
+- Análise de Dados  
 - CCNA V7 III: Enterprise Networking, Security and Automation
 - Inteligências Artificiais Generativas Aplicada a Programação - ChatGPT
-- Programação em IA Generativa  
-- Análise de Dados  
+- Programação em IA Generativa
