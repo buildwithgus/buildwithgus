@@ -12,7 +12,6 @@
 ![Fortinet](https://img.shields.io/badge/Fortinet-Cybersecurity-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
 ![CCNA II %26 III](https://img.shields.io/badge/CCNA-II%20%26%20III-005073?style=for-the-badge&logo=cisco&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-2E8B57?style=for-the-badge&logo=hackthebox&logoColor=white)
 
 ## 🚀 Em aprendizado:
 - Análise de Dados  
