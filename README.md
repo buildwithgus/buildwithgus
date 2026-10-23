@@ -1,7 +1,16 @@
 # Olá, eu sou o Gustavo 💻🤖
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-📊 Focado em Dados, Python e Inteligência Artificial  
+🎓 ADS Student | 💻 Python Developer | 🤖 AI & Data Enthusiast
+
+🚀 Estudante de Análise e Desenvolvimento de Sistemas, explorando o potencial da tecnologia para transformar dados em insights e ideias em soluções reais.
+
+🐍 Python • 📊 Data Analytics • 🤖 Generative AI • 🗄️ SQL • 📈 Power BI
+
+🛠️ Desenvolvendo projetos práticos, aprimorando minhas habilidades em programação e construindo soluções com Inteligência Artificial e análise de dados.
+
+📚 Sempre aprendendo, criando e evoluindo.
+
+🎯 Open to Internship Opportunities | Tecnologia, Dados & IA
 
 ## 💻 Tech Stack
 
