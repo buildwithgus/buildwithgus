@@ -1,7 +1,7 @@
 # Olá, eu sou o Gustavo 👋
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-📊 Focado em Dados, Python e Cibersegurança  
+📊 Focado em Dados, Python e Inteligência Artificial  
 
 ## 💻 Tech Stack
 
