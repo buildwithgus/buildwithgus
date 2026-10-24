@@ -4,6 +4,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=SYSTEM+ONLINE;DEVELOPER+INTERFACE+%2F%2F+GD-001;BUILDING+INTELLIGENT+SOLUTIONS" alt="System status"/>
 
+<img src="./assets/jarvis-core.gif" width="420" alt="GD-001 — Núcleo holográfico de inteligência artificial com anéis orbitais e partículas azuis"/>
+
 # GUSTAVO DANTAS
 
 ### `INTERFACE DE DESENVOLVEDOR // GD-001`
