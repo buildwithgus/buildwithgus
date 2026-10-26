@@ -51,3 +51,9 @@
 </div>
 
 💡 *Aprendendo, desenvolvendo e transformando conhecimento em soluções tecnológicas.*
+
+### 🐍 Minhas contribuições
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/buildwithgus/gustavo-dantas/output/github-contribution-grid-snake.svg" alt="Cobrinha percorrendo minhas contribuições do GitHub">
+</p>
