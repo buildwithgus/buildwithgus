@@ -1,4 +1,4 @@
-## 👋 Olá, eu sou o Gustavo Dantas da Costa
+## 🤖 Olá, eu sou o Gustavo Dantas da Costa
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na Universidade Metodista de São Paulo.
 
