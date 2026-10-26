@@ -54,6 +54,9 @@
 
 ### 🐍 Minhas contribuições
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/buildwithgus/gustavo-dantas/output/github-contribution-grid-snake.svg" alt="Cobrinha percorrendo minhas contribuições do GitHub">
-</p>
+<h3 align="center">🐍 Minhas contribuições</h3>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/buildwithgus/gustavo-dantas/output/github-contribution-grid-snake.svg" alt="Animação da cobrinha nas contribuições do GitHub" width="100%">
+</div>
+
