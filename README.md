@@ -1,4 +1,4 @@
-## 🤖 Olá, eu sou o Gustavo Dantas da Costa
+## 🤖 Olá, eu sou o Gustavo!
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na Universidade Metodista de São Paulo.
 
@@ -69,5 +69,3 @@
 <div align="center">
   <!---->
 </div>
-
-<p align="center"><sub>linus-torvalds · <a href="https://www.gitskins.com/readme-generator?template=community-creative-dev-rt3x">creative dev</a> template by <a href="https://www.gitskins.com/creators/himanshu201031">@himanshu201031</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
