@@ -1,6 +1,6 @@
 ## 🤖 Olá, eu sou o Gustavo!
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na Universidade Metodista de São Paulo.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na Universidade Metodista de São Paulo.
 
 💻 Tenho interesse em **Dados, Inteligência Artificial, Python e Desenvolvimento de Sistemas**, buscando constantemente aprimorar minhas habilidades por meio de projetos práticos e cursos complementares no SENAI.
 
