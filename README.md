@@ -27,7 +27,7 @@
 
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
-### 📊 Dados, IA e infraestrutura
+### 📊 Dados, IA e Infraestrutura
 
 - 🐍 **Python:** Pandas, NumPy, Matplotlib, Scikit-Learn e Seaborn.
 - 📈 **Power BI:** Dashboards, Power Query e Fundamentos de DAX.
@@ -36,7 +36,7 @@
 - 🌐 **Redes e Segurança:** Fundamentos de Redes Cisco CCNA e Cibersegurança Fortinet.
 - ☁️ **Infraestrutura:** Windows Server, Active Directory, DNS e DHCP.
 
-### 🚀 Projetos em destaque
+### 🚀 Projetos em Destaque
 
 - 🤖 **C.A.I.O. — Central Acadêmica Inteligente Online:** Agente de IA voltado ao atendimento de dúvidas acadêmicas.
 - 📊 **Projetos de Análise de Dados:** Exploração, tratamento e visualização de dados com Python e Power BI.
